@@ -1,8 +1,10 @@
 # JOVAC project  
-#Topic:- Age and Gender Prediction 
+# Age and Gender Prediction 
 #Based on:- ConvNets or neural networks
 # DataSet
   In this project I have used UTKFace Dataset which can easily be downloaded from kaggle
+# About the Project :
+  In this Python Project, I had used Machine learning to identify the gender and age of a person.
 # For executing the Code
 Clone the github repository in your local PC from the link :
 https://github.com/bharatarora12345/Age_And_Gender_Prediction
